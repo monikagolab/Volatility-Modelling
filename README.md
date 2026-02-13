@@ -1,2 +1,2 @@
 # Volatility-Modelling
-Modelling the volatillity of USD / EUR with GARCH models
+Modelling the volatility of EUR / USD exchange rates with GARCH models
